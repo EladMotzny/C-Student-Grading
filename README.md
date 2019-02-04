@@ -17,6 +17,7 @@ Example: ./a.out home/user/Desktop/OSExe/file.txt
 ![image](https://user-images.githubusercontent.com/33173449/52202425-1b8dae00-2877-11e9-8fcd-357e588d351e.png)
 
 Student folders example:
+
 ![image](https://user-images.githubusercontent.com/33173449/52202653-d28a2980-2877-11e9-8c21-9015305dab57.png)
 
 It will then go through the folder, run the students programs and compare the output using ex11.c. Please note that the compilation file for ex11.c needs to be called comp.out otherwise it would not work.
